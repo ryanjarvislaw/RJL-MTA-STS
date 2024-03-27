@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mx: ryanjarvis-law.mail.protection.outlook.com
 max_age: 86401
